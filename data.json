@@ -1,1 +1,10 @@
-[ [ { "players": 0, "availability": "99.7%", "uptime": "0 يوم، 01:56", "version": "PHR RolePlay | Beta Version - حياة واقعية", "joins": 0, "inVehicles": 65, "map": "Los Santos" } ] ]
+[
+  {
+    "players": 5,
+    "uptime": "1 يوم، 2:30:00",
+    "version": "PHR RolePlay",
+    "map": "Los Santos",
+    "inVehicles": 2,
+    "names": ["Ahmed", "Ali"]
+  }
+]
